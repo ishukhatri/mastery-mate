@@ -1,3 +1,23 @@
+# Motivation
+MasteryMate is a chrome extension that aims to apply the Mastery concept to Upwork job selection for deliberate practice and skill development. The Mastery concept is a framework that emphasizes deliberate practice and skill development to achieve expertise in a particular field. By selecting jobs that are challenging but achievable, one can improve their skills and gain valuable experience. MasteryMate provides an easy way to save such jobs in Airtable and practice later to develop the required skills. This not only leads to better career opportunities but also improves skills, ultimately leading to growth and improvement in the field.
+
+# Benefits
+MasteryMate helps you practice deliberate practice by saving challenging Upwork jobs in Airtable. This enables you to review those jobs later, implement them, and seek feedback and collbrate with others to improve your skills. Ultimately, applying the Mastery concept to job selection on Upwork can lead to growth and improvement in your field, as well as increased satisfaction and career opportunities.
+
+# Features
+MasteryMate displays an icon on Upwork job listings.
+Clicking the icon saves the job in Airtable.
+The saved job can be reviewed later for deliberate practice and skill development.
+
+# How to use
+Install the MasteryMate extension on Google Chrome.
+Go to Upwork and browse job listings.
+Click the MasteryMate icon to save a job in Airtable.
+Review the saved jobs later for deliberate practice and skill development.
+
+# Disclaimer
+MasteryMate is not affiliated with Upwork or Airtable.
+
 <img src="src/assets/img/icon-128.png" width="64"/>
 
 # Chrome Extension (MV3) Boilerplate with React 18 and Webpack 5
