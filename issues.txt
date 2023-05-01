@@ -1,0 +1,49 @@
+1. Limitation - saving Skills Skipped, as multi select is ot supported by airatbel free plan
+2. Improvement - Hourly rate is with that text. but for fixed its seperate. Think abt this.
+3. fixed :) Issue - Some issue in after airtable saves data. 
+4. Todo > - Use strategy pattern for parsing jobs, after that test and verify every field 
+5. Limitation - Fields are different on differnet pages
+6. Fixed > Use same icon everywhere
+7. todo > show icons everywhere, there is a job. search/saved/details
+8. Fixed :) feature - update icons after saving
+9. Not Needed > unsaving
+10. filled icons for already saved jobs
+11. Multiple icons
+12. Done :) extract job url as id and save that
+
+
+20 April, 2023 
+
+Fixed > issue > Data is not sent to airtable
+Fixed > issue > Multiple Icons for saving in job actions strip, On eveny click a new icon is added.
+Fixed > issue > Already saved Jobs icons as saved icon.
+Todo > issue > Fix promise chain of saving data in airtable.
+
+After this >
+1. Upload code to github. don't forget to remove my keys.
+
+Phase 2 >
+enhancement > Store skills or any other info ??
+enhancement > parse data from job details page to get extra data like category ( and maybe client details ). 
+enhancement > Add Scraper icon in search page as well.
+enhancement > Build Options Page for setting Airtable table and baseID.
+
+27 April, 2023 
+
+Fixed > issue > Data is not sent to airtable
+Fixed > issue > Multiple Icons for saving in job actions strip, On eveny click a new icon is added.
+Fixed > issue > Already saved Jobs icons as saved icon.
+Fixed > issue > Fix promise chain of saving data in airtable.
+
+Next >
+1. Parse data from job details side page to get extra data like category ( and maybe client details ).
+2. Breakdown Hourly in two columns. rate and enum hourly. so that grouping becomes easier. and hourly can be 
+    groupby enum hourly.
+3. Do something for skills.
+4. unsave functionality.
+4. Build Options Page for setting Airtable table and baseID.
+
+Other >
+1. Upload code to github. don't forget to remove my keys.
+2. make it as portfolio project on upwork.
+
